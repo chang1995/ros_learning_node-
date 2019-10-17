@@ -10,7 +10,7 @@ http://wiki.ros.org/cn/ROS/Tutorials
 
 `pwd`  ： 输出当前的工作目录
 
-`# catkin_create_pkg <package_name> [depend1] [depend2] [depend3]` ： 创建包并添加一些依赖
+`catkin_create_pkg <package_name> [depend1] [depend2] [depend3]` ： 创建包并添加一些依赖
 
 `roslaunch [package] [filename.launch]` :  启动roslaunch文件
 
